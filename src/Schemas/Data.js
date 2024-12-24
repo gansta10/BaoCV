@@ -54,7 +54,7 @@ export const Data = {
         company: "CCVI Technology",
         description: [
           "Learn and design security network model based on customer's requirements.",
-          "Deploy an switch model and firewall to protect any dangers from outside internet",
+          "Deploy an switch model and firewall to protect any dangers from outside internet.",
         ],
       },
     ],
@@ -62,7 +62,7 @@ export const Data = {
       {
         career: "University of Science Ho Chi Minh city",
         date: "2021 - Present",
-        institution: "Department of Physics and Computer Science",
+        institution: "Department of Physics and Computer Science.",
       },
     ],
     proyects: [
@@ -80,8 +80,8 @@ export const Data = {
         period: "01/2023 - 05/2023\n",
         description: [
           "Developed and trained a convolutional neural network (CNN) to classify handwritten digits/characters with high accuracy.\n",
-          "Preprocessed input data, including image normalization and augmentation, to enhance model performance and robustness",
-            "Utilized frameworks such as TensorFlow/Keras or PyTorch for model implementation and optimization",
+          "Preprocessed input data, including image normalization and augmentation, to enhance model performance and robustness.",
+            "Utilized frameworks such as TensorFlow/Keras or PyTorch for model implementation and optimization.",
 
         ],
       },
@@ -90,7 +90,7 @@ export const Data = {
         company: "HCMUS",
         period: "01/2023 - 04/2023\n",
         description: [
-          "Create a block game similar to Minecraft using LibGDX game framework ",
+          "Create a block game similar to Minecraft using LibGDX game framework.",
         ],
       },
     ],
