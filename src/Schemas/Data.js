@@ -77,7 +77,7 @@ export const Data = {
       {
         name: "Hand Written Recognition using Machine Learning ",
         company: "HCMUS",
-        period: "01/2023 - 05/2023\n",
+        period: "01/2024 - 05/2024\n",
         description: [
           "Developed and trained a convolutional neural network (CNN) to classify handwritten digits/characters with high accuracy.\n",
           "Preprocessed input data, including image normalization and augmentation, to enhance model performance and robustness.",
@@ -88,7 +88,7 @@ export const Data = {
       {
         name: "Minecraft Java minigame",
         company: "HCMUS",
-        period: "01/2023 - 04/2023\n",
+        period: "01/2024 - 04/2024\n",
         description: [
           "Create a block game similar to Minecraft using LibGDX game framework.",
         ],
